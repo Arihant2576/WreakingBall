@@ -20,7 +20,7 @@ class Box {
     rectMode(CENTER);
     strokeWeight(4);
     stroke("green");
-    fill(255);
+    fill("blue");
     rect(0, 0, this.width, this.height);
     pop();
   }
